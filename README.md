@@ -10,7 +10,7 @@ This repository is dedicated to storing study files for data analysis using Pyth
 
 Feel free to explore the files and use them as a reference for your own data analysis projects. Happy learning!
 
-[Descrição em Portguês](README_PT.md)
+[Descrição em Português](README_PT.md)
 
 | <a  href="https://www.linkedin.com/in/victor-breia/"> <img  style="border-radius: 50%;"  src="https://i.imgur.com/lGrTp6M.png" width="100px;"  alt=""/> |<h1> [Victor Breia](https://www.linkedin.com/in/victor-breia/)</a>                                                                      </h1>                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
