@@ -1,6 +1,10 @@
 # Curso de Engenharia de Dados - Aprendendo Pandas 📊 
+
 Este repositório é dedicado a armazenar arquivos de estudo para análise de dados usando bibliotecas Python como Pandas, NumPy, Matplotlib e Seaborn.
+
 ## Conteúdo
+
+- `examples/`: Diretório contendo exemplos e explicação do uso dos principais métodos e funções do pandas
 - `data_analysis.ipynb`: Jupyter Notebook contendo exemplos de análise de dados usando Pandas.
 - `data_visualization.ipynb`: Jupyter Notebook demonstrando técnicas de visualização de dados usando Matplotlib e Seaborn.
 - `datasets/`: Diretório contendo conjuntos de dados de amostra para prática.

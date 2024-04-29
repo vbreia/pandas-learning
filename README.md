@@ -4,6 +4,7 @@ This repository is dedicated to storing study files for data analysis using Pyth
 
 ## Contents
 
+- `examples/`: Directory containing examples and explanations of the usage of the main methods and functions of Pandas.
 - `data_analysis.ipynb`: Jupyter Notebook containing examples of data analysis using Pandas.
 - `data_visualization.ipynb`: Jupyter Notebook demonstrating data visualization techniques using Matplotlib and Seaborn.
 - `datasets/`: Directory containing sample datasets for practice.
